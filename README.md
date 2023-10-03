@@ -1,4 +1,5 @@
 Em HTML, CSS e JS, escreva um algoritmo que:
+
 4) Receba um número qualquer a partir do teclado e informe na tela se ele é par ou ímpar.
 
 5) Leia três valores inteiros diferentes e mostre-os em ordem decrescente.
