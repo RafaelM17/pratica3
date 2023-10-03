@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Pagamento</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="pagamento.js"></script>
+</head>
+<body>
+    <div class="container">
+        <label for="preco">Digite o preço normal de etiqueta:</label>
+        <input type="number" id="preco">
+
+        <label for="condicao">Escolha a condição de pagamento:</label>
+        <select id="condicao">
+            <option value="1">À vista, em dinheiro ou PIX</option>
+            <option value="2">À vista, no cartão de crédito</option>
+            <option value="3">Em duas vezes</option>
+            <option value="4">Em três vezes</option>
+        </select>
+
+        <button onclick="calcularPagamento()">Calcular Pagamento</button>
+        
+        <p id="resultado">Valor a ser pago: </p>
+    </div>
+
+ 
+</body>
+</html>
