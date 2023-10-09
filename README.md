@@ -1,3 +1,5 @@
+FIGMA : https://www.figma.com/file/oNQNMmcRweeLQog75Dhe9W/Pratica-03?type=design&node-id=0%3A1&mode=design&t=e2frUMo6RuiNQSZP-1
+
 Em HTML, CSS e JS, escreva um algoritmo que:
 
 4) Receba um número qualquer a partir do teclado e informe na tela se ele é par ou ímpar.
